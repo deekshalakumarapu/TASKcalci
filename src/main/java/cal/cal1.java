@@ -14,6 +14,8 @@ public class cal1 {
 			 scan = new Scanner(System.in);
 			 
 			 System.out.print("Enter First Number : ");
+			 System.out.print("Enter First Number and second number : ");
+			 
 			 a=scan.nextInt();
 			 System.out.print("Enter Second Number : ");
 			 b=scan.nextInt();
